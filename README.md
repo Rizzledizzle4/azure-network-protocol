@@ -46,3 +46,8 @@ Within VM1 Install Wireshark.
 This is an example of monitoring ICMP traffic through pinging VM2's private ip address.
 </p>
 <br />
+
+![image](https://github.com/Rizzledizzle4/azure-network-protocol/assets/135624545/796a362d-4d0c-4910-b5e2-fc58ca527d13)
+
+
+Heres an example of monitoring SSH traffic from VM1 to VM2.
